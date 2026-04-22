@@ -4,7 +4,13 @@
     { "pattern": "^https://github.com/egaprotocol/.github/" },
     { "pattern": "^https://github.com/egaprotocol/core" },
     { "pattern": "^https://github.com/egaprotocol/conformance" },
-    { "pattern": "^mailto:" }
+    { "pattern": "^mailto:" },
+    { "pattern": "^https://mirastacklabs.ai/trademark" },
+    { "pattern": "^https://egaprotocol.org/community" },
+    { "pattern": "^https://www.w3.org/TR/" },
+    { "pattern": "^CODE_OF_CONDUCT.md$" },
+    { "pattern": "^ADOPTERS.md$" },
+    { "pattern": "^proposals/" }
   ],
   "retryOn429": true,
   "retryCount": 3,
