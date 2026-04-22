@@ -12,7 +12,7 @@
 
 This document defines how the EGAProtocol specification is governed — who makes decisions, how changes are proposed and ratified, how maintainers are added and removed, and how the project is structured to evolve as an open standard.
 
-EGAProtocol was originally developed at Mirastack Labs Private Limited and released to the community under Apache License 2.0. This governance model is designed to grow the project from its initial single-organization stewardship into a multi-stakeholder open standard suitable for eventual donation to a neutral foundation such as the Cloud Native Computing Foundation (CNCF) or the Linux Foundation AI & Data.
+EGAProtocol was originally developed at MIRASTACK LABS Private Limited and released to the community under Apache License 2.0. This governance model is designed to grow the project from its initial single-organization stewardship into a multi-stakeholder open standard suitable for eventual donation to a neutral foundation such as the Cloud Native Computing Foundation (CNCF) or the Linux Foundation AI & Data.
 
 ---
 
@@ -22,7 +22,7 @@ EGAProtocol governance is guided by the following principles:
 
 1. **Openness.** All specification work happens in public. Private forks of the specification are discouraged.
 2. **Technical merit.** Decisions are made on technical grounds, not commercial ones.
-3. **Vendor neutrality.** No single organization, including Mirastack Labs, may unilaterally dictate the direction of the specification.
+3. **Vendor neutrality.** No single organization, including MIRASTACK LABS, may unilaterally dictate the direction of the specification.
 4. **Sovereign compatibility.** Changes to the specification MUST preserve the protocol's ability to function in air-gapped, on-premises, and regulated environments.
 5. **Backward compatibility within major versions.** Breaking changes are reserved for major version increments.
 6. **Lazy consensus.** Most decisions move forward unless actively objected to, reducing coordination overhead.
@@ -82,7 +82,7 @@ The TSC is described in detail in Section 4.
 
 The TSC consists of an odd number of seats between five and seven. At the time of project inception (v0.1), the TSC is constituted as follows:
 
-- **Seats 1–3:** Appointed by Mirastack Labs Private Limited as the originating organization, for an initial term ending 24 months after the public launch of EGAProtocol v0.1.
+- **Seats 1–3:** Appointed by MIRASTACK LABS Private Limited as the originating organization, for an initial term ending 24 months after the public launch of EGAProtocol v0.1.
 - **Seats 4–5:** Reserved for elected Maintainers from the broader contributor community, filled as soon as eligible Maintainers emerge.
 
 At the end of the initial 24-month term, all seats transition to community election as described in Section 4.4.
@@ -291,7 +291,7 @@ EGAProtocol and EGAP are names of an open specification, not trademarked product
 
 Guidance on how to describe EGAProtocol for different audiences is provided in [EXPANSIONS.md](./EXPANSIONS.md). Contributors introducing new canonical expansions must follow the process described there and in [CONTRIBUTING.md](./CONTRIBUTING.md).
 
-Misleading use of the EGAProtocol name to suggest sponsorship or endorsement by Mirastack Labs Private Limited where none exists is not permitted.
+Misleading use of the EGAProtocol name to suggest sponsorship or endorsement by MIRASTACK LABS Private Limited where none exists is not permitted.
 
 
 
@@ -357,8 +357,8 @@ Amendments take effect upon merge of the ratifying EIP into the main branch of t
 
 Until the TSC is fully constituted and at least 12 months have elapsed from project launch:
 
-- Mirastack Labs Private Limited holds the TSC majority as described in Section 4.1.
-- The initial Maintainer set is drawn from Mirastack Labs engineers who authored the v0.1 specification.
+- MIRASTACK LABS Private Limited holds the TSC majority as described in Section 4.1.
+- The initial Maintainer set is drawn from MIRASTACK LABS engineers who authored the v0.1 specification.
 - New Maintainer additions during the bootstrap period follow the standard Section 7 process.
 - This bootstrap provision is automatically retired 24 months after the public launch of EGAProtocol v0.1 or upon ratification of a governance EIP retiring it early.
 

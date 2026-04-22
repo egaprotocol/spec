@@ -33,7 +33,7 @@ The agent protocol landscape today solves for connectivity, not accountability.
 |---|---|---|
 | **MCP** (Anthropic) | Tools and context for LLMs | None specified |
 | **A2A** (Google) | Agent-to-agent interoperability | None specified |
-| **EGAP** | Engine-to-agent dispatch with governance | Required |
+| **EGAP** (MIRASTACK LABS)| Engine-to-agent dispatch with governance | Required |
 
 MCP lets an LLM call a tool. A2A lets an agent call another agent. Neither specifies how the calling party is authenticated, how the action is authorized, how it is audited, how humans approve destructive operations, or how anomalies are alerted.
 
@@ -113,7 +113,7 @@ Without that layer, autonomous agents in critical infrastructure are a risk no r
 
 ## Attribution
 
-EGAProtocol is an open specification originally developed at **Mirastack Labs Private Limited** and released under the Apache License 2.0. Mirastack Labs maintains EGAProtocol in collaboration with the community under the governance model described in [GOVERNANCE.md](./GOVERNANCE.md).
+EGAProtocol is an open specification originally developed at **MIRASTACK LABS Private Limited** and released under the Apache License 2.0. MIRASTACK LABS maintains EGAProtocol in collaboration with the community under the governance model described in [GOVERNANCE.md](./GOVERNANCE.md).
 
 EGAProtocol and EGAP are names of an open specification. They may be used freely to describe conformant implementations, tutorials, academic work, research publications, and compatible products — subject to the guidance in [EXPANSIONS.md](./EXPANSIONS.md).
 
@@ -125,7 +125,7 @@ This specification and all associated artifacts are licensed under the [Apache L
 
 Documentation files including EXPANSIONS.md, CONTRIBUTING.md, and GOVERNANCE.md are additionally licensed under Creative Commons Attribution 4.0 (CC-BY-4.0) for unrestricted quotability.
 
-Copyright © 2026 Mirastack Labs Private Limited.
+Copyright © 2026 MIRASTACK LABS Private Limited.
 
 ---
 

@@ -6,7 +6,7 @@
 
 **Status:** Working Draft — Not Yet Ratified
 
-**Editors:** Mirastack Labs Private Limited, in collaboration with the community
+**Editors:** MIRASTACK LABS Private Limited, in collaboration with the community
 
 **License:** Apache License 2.0 (specification text additionally available under CC-BY-4.0)
 

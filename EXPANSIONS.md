@@ -156,8 +156,8 @@ If you need a single sentence that captures EGAP for any audience:
 
 For questions about expansion use or how to describe EGAProtocol in your own materials, contact `hello@egaprotocol.org`.
 
-EGAProtocol is an open specification. The names "EGAProtocol" and "EGAP" are not trademarked and may be used freely to describe conformant implementations, tutorials, research, and compatible products. See [GOVERNANCE.md](./GOVERNANCE.md) Section 9.3 for complete guidance. "MIRASTACK" and "MIRA ENGINE" are trademarks of Mirastack Labs Private Limited and are governed by a separate trademark policy at https://mirastacklabs.ai/trademark.
+EGAProtocol is an open specification. The names "EGAProtocol" and "EGAP" are not trademarked and may be used freely to describe conformant implementations, tutorials, research, and compatible products. See [GOVERNANCE.md](./GOVERNANCE.md) Section 9.3 for complete guidance. "MIRASTACK" and "MIRA ENGINE" are trademarks of MIRASTACK LABS Private Limited and are governed by a separate trademark policy at https://mirastacklabs.ai/trademark.
 
 ---
 
-*This document is licensed under Creative Commons Attribution 4.0 (CC-BY-4.0). Copyright © 2026 Mirastack Labs Private Limited.*
+*This document is licensed under Creative Commons Attribution 4.0 (CC-BY-4.0). Copyright © 2026 MIRASTACK LABS Private Limited.*

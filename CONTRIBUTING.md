@@ -392,7 +392,7 @@ Guidance on which expansion to use for which audience is in [EXPANSIONS.md](./EX
 
 What the project asks of contributors:
 
-- Do not use the name in a way that implies sponsorship or endorsement by Mirastack Labs Private Limited where none exists.
+- Do not use the name in a way that implies sponsorship or endorsement by MIRASTACK LABS PRIVATE LIMITED where none exists.
 - Do not invent new canonical expansions of EGAP outside the process in EXPANSIONS.md.
 - When referring to conformance, use the EGAProtocol Certified program (forthcoming) for formal attestation.
 
