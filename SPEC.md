@@ -85,8 +85,6 @@ This is the discipline that makes autonomous AI agents acceptable in environment
 
 ### 1.2 Design Principles
 
-### 1.2 Design Principles
-
 EGAP follows these principles:
 
 - **Governance by default.** Governance metadata is mandatory on every agentic action, not optional. There is no "unauthenticated mode," no "skip audit" flag, no "approval bypass."
